@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc05470ca820cf64f9c688d4e3284ea9, type: 3}
+  m_Name: Triangle
+  m_EditorClassIdentifier: 
+  shapeName: Triangle
+  shapeSprite: {fileID: 21300000, guid: bfdc8f2bbd15b4347833f63a7d8b767b, type: 3}
+  shapeType: 1
+  shapePrefab: {fileID: 2032779983319752748, guid: 58840d348ada93f4eb3947a6c302c0e6, type: 3}
+  winSound: {fileID: 8300000, guid: 76955e182d213e4419a75a44879821ee, type: 3}
+  loseSound: {fileID: 8300000, guid: 57e655194b8d5ff4792e246bf4ac724e, type: 3}
